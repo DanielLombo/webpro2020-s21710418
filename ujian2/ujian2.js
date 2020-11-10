@@ -26,7 +26,6 @@ const addNumber = (...angka) => {
 
 console.log(addNumber(1, 2, 3, 4, 5, 6, 7));
 
-//NOTE: please use the map function
 
 // nomor 3
 let phi = 3.14;
